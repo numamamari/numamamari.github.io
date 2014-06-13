@@ -2,7 +2,7 @@ void setup(){
   size(800,600);
   frameRate(60);
   noStroke();
-  fill(31,127,255);
+  fill(31,200,255);
 }
 
 void draw(){
